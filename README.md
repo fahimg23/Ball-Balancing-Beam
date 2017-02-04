@@ -10,4 +10,4 @@ Equipment: </br>
 4. A rail/beam to hold a ball. For this project, a metal 1m long 1 inch wide rail was used</br>
 5. A ball that sits on top on the rail or inside it. For this project, a pool ball was used </br>
 
-Link to demo video: https://www.youtube.com/watch?v=OGEKN0rP5Ik
+Link to demo video: https://www.youtube.com/watch?v=zgQl4vvflCo 
