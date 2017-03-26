@@ -5,7 +5,7 @@ PID control system that uses ultrasonic sensors and a servo to move a ball to th
 
 Equipment: </br>
 
-1. Microcontroller Board: Arduino Uno R3 (ATMega 328/P microcontroller)
+1. Microcontroller Board: Arduino Uno R3 (ATMega 328/P MCU)
 2. 2 Ultrasonic sensors (HC-SR04) </br>
 3. Power HD 1501MG servo </br>
 4. Ultrasonic sensor mounts  (.stl files included in the master branch)</br>
